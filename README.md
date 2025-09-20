@@ -1,0 +1,1 @@
+Arch Linux PKGBUILD for building an unpatched (vanilla) Linux kernel, also disables the rust stuff

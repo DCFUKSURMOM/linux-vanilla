@@ -6,7 +6,7 @@
 
 pkgbase=linux-vanilla
 pkgver=6.16.8
-pkgrel=1
+pkgrel=2
 pkgdesc="Stock Linux kernel without Arch patches or Rust BS"
 arch=(x86_64)
 url="https://kernel.org/"

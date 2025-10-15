@@ -5,8 +5,8 @@
 # Maintainer: Mikael Eriksson <mikael_eriksson@miffe.org>
 
 pkgbase=linux-vanilla
-pkgver=6.16.8
-pkgrel=2
+pkgver=6.17.2
+pkgrel=1
 pkgdesc="Stock Linux kernel without Arch patches or Rust BS"
 arch=(x86_64)
 url="https://kernel.org/"

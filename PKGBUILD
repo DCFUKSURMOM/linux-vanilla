@@ -2,10 +2,10 @@
 # Maintainer: Daniel Cook (DCFUKSURMOM) <danielcook30a@gmail.com>
 #
 # Based on the linux-mainline package by:
-# Maintainer: Mikael Eriksson <mikael_eriksson@miffe.org>
+# Mikael Eriksson <mikael_eriksson@miffe.org>
 
 pkgbase=linux-vanilla
-pkgver=6.18.3
+pkgver=6.18.9
 pkgrel=1
 pkgdesc="Stock Linux kernel without Arch patches or Rust BS"
 arch=(x86_64)

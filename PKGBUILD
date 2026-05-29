@@ -5,7 +5,7 @@
 # Mikael Eriksson <mikael_eriksson@miffe.org>
 
 pkgbase=linux-vanilla
-pkgver=7.0
+pkgver=7.0.10
 pkgrel=1
 pkgdesc="Stock Linux kernel without Arch patches or Rust BS"
 arch=(x86_64)
@@ -36,7 +36,7 @@ options=(
 )
 _srcname=linux-$pkgver
 source=(
-  "$_srcname.tar.gz::https://github.com/torvalds/linux/archive/refs/tags/v$pkgver.tar.gz"
+  "$_srcname.tar.xz::https://cdn.kernel.org/pub/linux/kernel/v7.x/linux-$pkgver.tar.xz"
   config         # the main kernel config file
 )
 

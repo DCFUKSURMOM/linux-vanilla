@@ -5,7 +5,7 @@
 # Mikael Eriksson <mikael_eriksson@miffe.org>
 
 pkgbase=linux-vanilla
-pkgver=7.1.1
+pkgver=7.2
 pkgrel=1
 pkgdesc="Stock Linux kernel without Arch patches or Rust BS"
 arch=(x86_64)
